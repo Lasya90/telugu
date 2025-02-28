@@ -16,7 +16,7 @@ st.markdown("""
     }
     .chat-font {
         font-family: 'Times New Roman', serif;
-        color: black;
+        color: #2c5f2d;
     }
     .user-msg {
         background: #ffffff !important;
